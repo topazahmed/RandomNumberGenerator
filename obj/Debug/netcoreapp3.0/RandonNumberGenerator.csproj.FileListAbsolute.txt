@@ -1,0 +1,11 @@
+/Users/topaz/Downloads/RandonNumberGenerator/obj/Debug/netcoreapp3.0/RandonNumberGenerator.csprojAssemblyReference.cache
+/Users/topaz/Downloads/RandonNumberGenerator/obj/Debug/netcoreapp3.0/RandonNumberGenerator.AssemblyInfoInputs.cache
+/Users/topaz/Downloads/RandonNumberGenerator/obj/Debug/netcoreapp3.0/RandonNumberGenerator.AssemblyInfo.cs
+/Users/topaz/Downloads/RandonNumberGenerator/bin/Debug/netcoreapp3.0/RandonNumberGenerator
+/Users/topaz/Downloads/RandonNumberGenerator/bin/Debug/netcoreapp3.0/RandonNumberGenerator.deps.json
+/Users/topaz/Downloads/RandonNumberGenerator/bin/Debug/netcoreapp3.0/RandonNumberGenerator.runtimeconfig.json
+/Users/topaz/Downloads/RandonNumberGenerator/bin/Debug/netcoreapp3.0/RandonNumberGenerator.runtimeconfig.dev.json
+/Users/topaz/Downloads/RandonNumberGenerator/bin/Debug/netcoreapp3.0/RandonNumberGenerator.dll
+/Users/topaz/Downloads/RandonNumberGenerator/bin/Debug/netcoreapp3.0/RandonNumberGenerator.pdb
+/Users/topaz/Downloads/RandonNumberGenerator/obj/Debug/netcoreapp3.0/RandonNumberGenerator.dll
+/Users/topaz/Downloads/RandonNumberGenerator/obj/Debug/netcoreapp3.0/RandonNumberGenerator.pdb
